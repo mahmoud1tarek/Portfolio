@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Analyst Portfolio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container header-content">
+            <h1 class="logo">Loading...</h1>
+            <nav id="top-nav">
+                <a id="resume-btn" href="#" target="_blank" class="btn btn-small">Resume</a>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="hero" class="container">
+            <p id="site-about" class="hero-text"></p>
+        </section>
+
+        <section id="projects" class="container">
+            <!-- Projects will be dynamically loaded here -->
+            <div id="project-grid" class="project-grid"></div>
+        </section>
+    </main>
+
+    <!-- Project Modal -->
+    <div id="project-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-button">&times;</span>
+            <div id="modal-body">
+                <h2 id="modal-title">Project Title</h2>
+                <div class="modal-gallery">
+                    <div id="gallery-container" class="gallery-container">
+                        <!-- Images will be dynamically loaded here -->
+                    </div>
+                    <button id="prev-btn" class="gallery-nav prev-btn">&#10094;</button>
+                    <button id="next-btn" class="gallery-nav next-btn">&#10095;</button>
+                </div>
+                <div class="modal-info">
+                    <p id="modal-description"></p>
+                    <a id="powerbi-link" href="#" target="_blank" class="btn">View Power BI Report</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="container footer-content">
+            <div id="footer-logo" class="logo"></div>
+            <div class="social-links">
+                <a id="link-linkedin" href="#" target="_blank">LinkedIn</a>
+                <a id="link-github" href="#" target="_blank">GitHub</a>
+                <a id="link-email" href="#">Email</a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

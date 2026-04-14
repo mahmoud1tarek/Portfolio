@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "title": "Automotive E-commerce & Service Platform (Graduation Project)",
+    "description": " Developed a full-stack Web/Mobile App for spare parts sales and automated maintenance scheduling Built an Admin Dashboard with HTML, CSS, and JS to manage inventory and appointments.",
+    "cover": "assets/P3/Screenshot 2025-12-13 192954 - Copy.png",
+    "images": [
+      "assets/P3/Screenshot 2025-12-13 192954 - Copy.png",
+      "assets/P3/Screenshot 2025-12-13 214604.png",
+      "assets/P3/Screenshot 2025-12-13 225925.png",
+      "assets/P3/Screenshot 2025-12-13 195108 - Copy.png",
+      "assets/P3/Screenshot 2025-12-13 195231.png"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Financial performance analytics",
+    "description": "Processed $362M in sales using Python and Power Query for interactive financial reporting Analyzed Monthly Profit trends, COGS, and Cost Centers for Everest Group.",
+    "cover": "assets/PI/P1.png",
+    "images": [
+      "assets/PI/P1.png",
+      "assets/PI/P2.png"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Superstore Sales Analytics",
+    "description": "Analyzed $470K in sales via Pivot Tables and Power Query to identify growth trends Visualized profitability, segments, and discount impacts (16% avg) using Power BI",
+    "cover": "assets/p2/Superstore 1.png",
+    "images": [
+      "assets/p2/Superstore 1.png",
+      "assets/p2/Superstore 2.png",
+      "assets/p2/Superstore 3.png"
+    ]
+  }
+]
