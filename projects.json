@@ -12,14 +12,14 @@
       "assets/P3/Screenshot 2025-12-13 195231.png"
     ]
   },
-  {
+   {
     "id": 2,
     "title": "Financial performance analytics",
     "description": "Processed $362M in sales using Python and Power Query for interactive financial reporting Analyzed Monthly Profit trends, COGS, and Cost Centers for Everest Group.",
-    "cover": "https://drive.google.com/file/d/1VKd10H-j9EOT08xkXXB7eMck01_xvQbJ/view?usp=drive_link",
+    "cover": "assets/PI/P1.png",
     "images": [
-      "https://drive.google.com/file/d/1VKd10H-j9EOT08xkXXB7eMck01_xvQbJ/view?usp=drive_link",
-      "https://drive.google.com/file/d/1cVUI3an3E-K90PpJ9rE07OxswpaAjTS0/view?usp=drive_link"
+      "assets/PI/p1.png",
+      "assets/PI/p2.png"
     ]
   },
   {
